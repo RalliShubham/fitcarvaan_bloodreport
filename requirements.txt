@@ -1,0 +1,4 @@
+pypdf==4.0.1
+reportlab==4.0.4
+Pillow==10.0.0
+streamlit
